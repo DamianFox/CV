@@ -2,7 +2,7 @@
 
 This repository contains my resume written in [LaTeX](https://www.latex-project.org), and using the friggery template.
 
-![Resume](Curriculum-Damiano-Fossa.pdf)
+[Resume](Curriculum-Damiano-Fossa.pdf)
 
 ### Instructions
 
