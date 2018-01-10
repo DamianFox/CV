@@ -2,11 +2,11 @@
 
 This repository contains my resume written in [LaTeX](https://www.latex-project.org), and using the friggery template.
 
-![Resume](damiano_fossa_cv.pdf)
+![Resume](Curriculum-Damiano-Fossa.pdf)
 
 ### Instructions
 
-The content of the cv is in `/damiano_fossa_cv.tex`
+The content of the cv is in `/Curriculum-Damiano-Fossa.tex`
 
 To update the style and the colors modify friggeri-cv.cls
 
