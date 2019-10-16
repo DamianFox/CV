@@ -1,6 +1,6 @@
 # About
 
-This repository contains my resume written in [LaTeX](https://www.latex-project.org), and using the friggery template.
+This repository contains my resume written in [LaTeX](https://www.latex-project.org), based on the friggery template.
 
 [Resume](Curriculum-Damiano-Fossa.pdf)
 
